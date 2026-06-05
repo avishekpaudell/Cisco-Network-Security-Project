@@ -20,3 +20,9 @@ This project demonstrates the design and implementation of a secure enterprise n
 
 ## Author
 Avishek Paudel
+
+## Why i bulit this
+Built as part of my self-driven IT learning journey to develop hands-on skills in enterprise networking and security. Every feature was configured, tested and documeneted. 
+
+## Connect with me 
+LinkedIn - https://www.linkedin.com/in/avishek-paudel-a72388413/
